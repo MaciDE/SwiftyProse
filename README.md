@@ -6,12 +6,11 @@ A customizable UI component that renders [ProseMirror](https://prosemirror.net) 
 ![License](https://img.shields.io/badge/License-MIT-lightgrey.svg?style=flat)
 
 ## Example App
-An example app is available to showcase and enable you to test some of `SwiftProse`'s features. It can be found in `./SwiftyProseDemo`. 
+An example app is available to showcase and enable you to test some of `SwiftyProse`'s features. It can be found in `./SwiftyProseDemo`. 
 
 ## Requirements
 - Deployment target iOS 14.0+
 - Swift 5+
-- Xcode 
 
 ## Installation
 
