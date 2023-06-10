@@ -18,8 +18,8 @@ An example app is available to showcase and enable you to test some of `SwiftPro
 ### Swift Package Manager
 To install `SwiftyProse` using [Swift Package Manager](https://swift.org/package-manager/), add `.package(name: "SwiftyProse", url: https://github.com/MaciDE/SwiftyProse.git", from: "1.0.0"),"` to your Package.swift, then follow [this](https://swift.org/package-manager#importing-dependencies) integration tutorial. 
 
-## Using `SwiftProse`
-Once you've installed `SwiftProse` into your project, creating a view that decodes and displays your ProseMirror-document is just a few steps.
+## Using `SwiftyProse`
+Once you've installed `SwiftyProse` into your project, creating a view that decodes and displays your ProseMirror-document is just a few steps.
 
 ### Currently supported node types
 - Blockquote
